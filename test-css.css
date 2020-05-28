@@ -3,10 +3,10 @@ body{
 }
 h1{
 	font-size: 30px;
-	color: crimson
+	color: darkturquoise;
 }
 p{
-	color: black;
+	color: cadetblue;
 }
 .heading{
 	text-transform: uppercase;
